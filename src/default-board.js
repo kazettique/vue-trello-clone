@@ -47,6 +47,17 @@ export default {
           userAssigned: null
         }
       ]
+    },
+    {
+      name: 'done',
+      tasks: [
+        {
+          description: 'hello description',
+          name: 'hello task',
+          id: '1',
+          userAssigned: null
+        }
+      ]
     }
   ]
 }
