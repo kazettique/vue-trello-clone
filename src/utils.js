@@ -9,9 +9,9 @@ export function saveStatePlugin (store) {
 }
 
 const version = '2.0.1'
-const isReady = 'Coming Soon'
+const isReady = 'Coming Soon 👻'
 
-console.log(`%c Fake-Tool %c ${isReady} %c %c Detected Ver. %c ${version} `,
+console.log(`%c Fake-Tool %c ${isReady} %c %c Version. %c ${version} `,
   'background:#35495e; padding: 1px; border-radius: 3px 0 0 3px;  color: #fff',
   'background:#41b883; padding: 1px; border-radius: 0 3px 3px 0;  color: #fff',
   'background:transparent',
